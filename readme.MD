@@ -62,7 +62,8 @@ the backend is build using PHP and Mysql
         Log In: Log in with your credentials.
         Search Movies: Use the search bar on the home page to find movies.
         Create Lists: Add movies to lists, create new lists, and manage existing lists.
-        Public and Private Lists: Toggle between making lists public or private.
+        Public and Private Lists: Toggle between making lists public or private. 
+        public playlists are avaible to view by anyone whereas private is only visibible to the user who created it.
 ## Steps to Run
 1. Clone the repository: git clone https://github.com/rSaiHarsha/Movie-lib-web.git
 2. Set up the database: Import the SQL schema and configure db_config.php.
