@@ -30,11 +30,6 @@ the backend is build using PHP and Mysql
 
 - Integrated with the OMDB API to fetch movie details based on user queries.
 
-### UI and UX
-
-- Inspired by popular movie streaming platforms, offering a clean and intuitive interface.
-- Mobile-friendly design ensuring a great user experience across devices.
-
 
 ## Prerequisites
 
@@ -47,7 +42,7 @@ the backend is build using PHP and Mysql
 
 1. Clone the Repository
 
-    git clone https://github.com/your-username/movielibapplication.git
+    git clone https://github.com/rSaiHarsha/Movie-lib-web.git
     cd movielibapplication
 
 2. Set Up the Database
@@ -69,7 +64,7 @@ the backend is build using PHP and Mysql
         Create Lists: Add movies to lists, create new lists, and manage existing lists.
         Public and Private Lists: Toggle between making lists public or private.
 ## Steps to Run
-1. Clone the repository: git clone https://github.com/your-username/movielibapplication.git
+1. Clone the repository: git clone https://github.com/rSaiHarsha/Movie-lib-web.git
 2. Set up the database: Import the SQL schema and configure db_config.php.
 3. Install dependencies: Ensure you have all the necessary PHP extensions installed.
 4. Configure OMDB API: Replace the placeholder API key with your actual key.
